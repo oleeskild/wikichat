@@ -2,6 +2,8 @@
 
 A demo project allowing you to query a Wikipedia articles using GPT-4, Weaviate and OpenAI Embeddings.
 
+A walkthrough (in Norwegian) is available [here](https://notes.ole.dev/ressurser/slipbox/chat-med-dokumentasjonen-din/)
+
 ## Setup
 ```bash
 npm install
